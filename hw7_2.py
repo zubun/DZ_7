@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod, ABCMeta
 
+
 class Clothes(ABC):
     summ = []
 
