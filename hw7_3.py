@@ -1,4 +1,3 @@
-
 class Cell:
     def __init__(self, number, row, cell):
         self.number = number
